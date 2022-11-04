@@ -21,19 +21,6 @@ Calendário dos jogos da Copa do Mundo de 2022.
   <img alt="calendário da copa" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
-</br>
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-</br>
-
-- HTML e CSS;
-- JavaScript;
-- [Node.Js](https://nodejs.org/)
-- [Git](https://git-scm.com/) e GitHub.
-
-</br>
 
 ## 💻 Projeto
 
@@ -48,6 +35,22 @@ O Calendário da Copa é um projeto que mostra o calendário dos jogos da Copa d
 </br>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+</br>
+
+---
+
+## 🚀 Tecnologias
+</br>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+</br>
+
+- HTML e CSS;
+- JavaScript;
+- [Node.Js](https://nodejs.org/)
+- [Git](https://git-scm.com/) e GitHub.
 
 </br>
 
