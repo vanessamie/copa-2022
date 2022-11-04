@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS;
 - JavaScript;
-- [Node.Js](https://nodejs.org/)
+- [Node.Js](https://nodejs.org/);
 - [Git](https://git-scm.com/) e GitHub.
 
 </br>
@@ -57,7 +57,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ## :skull: HTML
----
+
+</br>
+
 ### O que é HTML?
 
 </br>
@@ -106,7 +108,9 @@ Como escrevemos atributos?
 ---
 
 ## :woman: :lipstick: CSS
----
+
+</br>
+
 ### O que é CSS?
 
 </br>
@@ -156,7 +160,9 @@ body {
 ---
 
 ## :woman_dancing: Javascript
----
+
+</br>
+
 ### **O que é?**
 
 </br>
@@ -399,6 +405,8 @@ git push
 Esse projeto está sob a licença MIT.
 
 ---
+</br>
+
 <p align="center">
 Feito com ♥ by Vanessa :vulcan_salute:
 </p>
