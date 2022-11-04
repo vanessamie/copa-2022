@@ -1,0 +1,24 @@
+.card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  width: 27rem;
+}
+
+.card ul li {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card ul li + li {
+  border-top: 1px solid #323238;
+  padding-top: 2.4rem;
+}
+
+.card ul li strong {
+  color: #e1e1e6;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 125%;
+}

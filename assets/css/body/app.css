@@ -1,0 +1,11 @@
+#app {
+  margin: auto;
+  padding-top: 5.2rem;
+  width: fit-content;
+}
+
+@media (min-width: 700px) {
+  #app {
+    max-width: 90%;
+  }
+}

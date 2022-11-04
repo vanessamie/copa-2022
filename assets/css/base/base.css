@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Roboto&display=swap');
+
+@import url("../base/style.css");
+@import url("../base/reset.css");
+@import url("../base/normalize.css");
+
+@import url("../body/app.css");
+@import url("../body/app-header.css");
+
+@import url("../body/main-cards.css");
+@import url("../body/cards-title.css");
+@import url("../body/cards-list.css");
+@import url("../body/cards-hover.css");
+
+@import url("../footer/footer.css");
+@import url("../footer/footer-name.css");
+@import url("../footer/footer-social.css");

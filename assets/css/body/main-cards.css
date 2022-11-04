@@ -1,0 +1,12 @@
+#cards {
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+}
+
+@media (min-width: 700px) {
+  #cards {
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+  } 
+}

@@ -1,0 +1,10 @@
+footer {
+    align-items: center;
+    color: var(--card-color-primary);
+    display: flex;
+    flex-direction: column;
+    
+    height: 10rem;
+    justify-content: space-evenly;
+    margin: 5rem 0;
+}
