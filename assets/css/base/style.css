@@ -54,7 +54,22 @@ body.green {
   --bg: url(../img-bgd/bg-green.svg);
 }
 
+@media  screen and (max-width: 820px) {
 
+body,
+body.yellow {
+  --bg: url(../img-bgd/bg-mobile-yellow.svg);
+}
+
+body.blue {
+  --bg: url(../img-bgd/bg-mobile-blue.svg);
+}
+
+body.green {
+  --bg: url(../img-bgd/bg-mobile-green.svg);
+}
+  
+}
 
 
 
