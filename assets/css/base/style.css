@@ -1,16 +1,38 @@
 :root {
   --bg: url(../img-bgd/bg-yellow.svg);
-  --card-bg-color: #1d1c19;
+  --card-bg-color: rgb(29, 28, 25, 0.5);
   --card-color-primary: #f7dd43;
-  --card-title-border-color: #746615;
+  --card-title-border-color: #8c7a13;
 
   font-size: 62.5%;
 }
 
+body {
+  background: var(--bg) no-repeat top center/cover;
+}
+
+body * {
+  font-family: "Roboto", sans-serif;
+}
+
+body.yellow,
+#btn-color.yellow,
+footer.yellow,
+.fa-brands.yellow {
+  --card-bg-color: rgb(29, 28, 25, 0.5);
+  --card-color-primary: #f7dd43;
+  --card-title-border-color: #8c7a13;
+}
+
+body.yellow {
+  --bg: url(../img-bgd/bg-yellow.svg);
+}
+
 body.blue,
+#btn-color.blue,
 footer.blue,
 .fa-brands.blue {
-  --card-bg-color: #202024;
+  --card-bg-color: rgb(32, 32, 36, 0.5);
   --card-color-primary: #338af3;
   --card-title-border-color: #338af3;
 }
@@ -20,9 +42,10 @@ body.blue {
 }
 
 body.green,
+#btn-color.green,
 footer.green,
 .fa-brands.green {
-  --card-bg-color: #1a1f1b;
+  --card-bg-color: rgba(24, 35, 26, 0.5);
   --card-color-primary: #047c3f;
   --card-title-border-color: #047c3f;
 }
@@ -30,16 +53,6 @@ footer.green,
 body.green {
   --bg: url(../img-bgd/bg-green.svg);
 }
-
-body {
-  background: #121214 var(--bg) no-repeat top center/cover;
-}
-
-body * {
-  font-family: "Roboto", sans-serif;
-}
-
-
 
 
 

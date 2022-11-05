@@ -1,0 +1,15 @@
+#btn-color {
+  background: transparent;
+  border: 1px solid var(--card-title-border-color);
+  border-radius: 69% 31% 51% 49% / 40% 26% 74% 60%;
+  box-shadow: 1px 1px 5px var(--card-color-primary);
+  color: #ECE8E7;
+  display: inline-block;
+
+  font-weight: bold;
+  height: 5rem;
+  letter-spacing: 0.1rem;
+  margin-right: 0;
+  position: relative;
+  width: 5rem;
+}
